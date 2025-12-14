@@ -1,21 +1,8 @@
-<h1 align="center">Hi, I’m Sagar 🚀</h1>
+# Hi, I’m Sagar 👋
 
-<p align="center">
-  <b>Information Science & Engineering Student | Aspiring Full‑Stack Developer</b>
-</p>
+**Information Science & Engineering Student | Aspiring Full-Stack Developer**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sagarssavadatti2004">
-    <img src="https://img.shields.io/badge/PORTFOLIO-LINKEDIN-444?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/sagr12004">
-    <img src="https://img.shields.io/badge/VISIT-GITHUB-blue?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-I am an Information Science and Engineering student with a strong interest in **full‑stack development**, focused on building practical, scalable, and user‑oriented applications. I bring good communication skills, a problem‑solving mindset, and a continuous learning attitude—qualities essential for industry‑ready development roles.
+I am an Information Science and Engineering student with a strong interest in **full-stack development**, focused on building practical, scalable, and user-oriented applications. I bring good communication skills, a problem-solving mindset, and a continuous learning attitude—qualities essential for industry-ready development roles.
 
 ---
 
@@ -25,7 +12,7 @@ I am an Information Science and Engineering student with a strong interest in **
 * 💻 Interested in frontend and backend development
 * 🌱 Currently improving backend systems and API design
 * 🤝 Strong communication and collaboration skills
-* 🧠 Focused on clean code, logic, and real‑world solutions
+* 🧠 Focused on clean code, logic, and real-world solutions
 
 ---
 
@@ -49,16 +36,18 @@ I am an Information Science and Engineering student with a strong interest in **
 
 ## 📌 Project Highlights
 
-### 🔹 Full‑Stack Web Application
+*(Representative academic & self-learning projects)*
+
+### 🔹 Full-Stack Web Application
 
 * Developed frontend interfaces and backend logic using **JavaScript & Node.js**
 * Implemented basic API handling and data flow
 * Focused on modular, readable code structure
 
-### 🔹 Backend / Python‑Based Project
+### 🔹 Backend / Python-Based Project
 
 * Built Python scripts for logic handling and data processing
-* Emphasized problem‑solving and algorithmic thinking
+* Emphasized problem-solving and algorithmic thinking
 * Improved debugging and code optimization skills
 
 *(More projects will be added as I continue building and learning.)*
@@ -71,7 +60,7 @@ I am an Information Science and Engineering student with a strong interest in **
   <a href="https://www.linkedin.com/in/sagarssavadatti2004">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/sagar._s._.s">
+  <a href="https://www.instagram.com/your_instagram_username">
     <img src="https://img.shields.io/badge/Instagram-Profile-critical?style=for-the-badge&logo=instagram" />
   </a>
 </p>
@@ -88,6 +77,6 @@ I am an Information Science and Engineering student with a strong interest in **
 
 ### 💡 Career Objective
 
-To secure opportunities where I can apply my technical skills, grow as a full‑stack developer, and contribute to meaningful software solutions.
+To secure opportunities where I can apply my technical skills, grow as a full-stack developer, and contribute to meaningful software solutions.
 
-<i>Always learning. Always building.</i>
+*Always learning. Always building.*
