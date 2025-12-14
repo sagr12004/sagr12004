@@ -1,12 +1,12 @@
 # Hi, I’m Sagar 👋
 
-**Aspiring Full‑Stack Developer | Computer Science Student**
+**Aspiring Full‑Stack Developer | Information Science and Engineering Science Student**
 
 I am a motivated developer with experience in both **frontend and backend development**, focused on building clean, scalable, and user‑centric applications. I value clear communication, continuous learning, and practical problem‑solving.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 * 💻 Interested in full‑stack web development
 * 🌱 Currently strengthening backend and API development skills
@@ -15,7 +15,7 @@ I am a motivated developer with experience in both **frontend and backend develo
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github" />
@@ -23,7 +23,7 @@ I am a motivated developer with experience in both **frontend and backend develo
 
 ---
 
-## 🔧 Core Skills
+##  Core Skills
 
 * Frontend Development
 * Backend Development (Node.js)
