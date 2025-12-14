@@ -1,4 +1,4 @@
-<center># Hi, I’m Sagar 👋
+# Hi, I’m Sagar 👋
 
 **Information Science & Engineering Student | Aspiring Full-Stack Developer**
 
@@ -6,15 +6,16 @@ I am an Information Science and Engineering student with a strong interest in **
 
 ## 📫 Connect With Me
 
-<p>
+<p><center>
   <a href="https://www.linkedin.com/in/sagarssavadatti2004">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.instagram.com/your_instagram_username">
     <img src="https://img.shields.io/badge/Instagram-Profile-critical?style=for-the-badge&logo=instagram" />
   </a>
-</p>
 </center>
+</p>
+
 ---
 
 ## 🚀 About Me
