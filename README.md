@@ -4,6 +4,17 @@
 
 I am an Information Science and Engineering student with a strong interest in **full-stack development**, focused on building practical, scalable, and user-oriented applications. I bring good communication skills, a problem-solving mindset, and a continuous learning attitude—qualities essential for industry-ready development roles.
 
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sagarssavadatti2004">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/your_instagram_username">
+    <img src="https://img.shields.io/badge/Instagram-Profile-critical?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
@@ -51,19 +62,6 @@ I am an Information Science and Engineering student with a strong interest in **
 * Improved debugging and code optimization skills
 
 *(More projects will be added as I continue building and learning.)*
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/sagarssavadatti2004">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://www.instagram.com/your_instagram_username">
-    <img src="https://img.shields.io/badge/Instagram-Profile-critical?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
 
 ---
 
