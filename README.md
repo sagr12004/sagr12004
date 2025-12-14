@@ -1,12 +1,25 @@
-# Hi, I’m Sagar 👋
+<h1 align="center">Hi, I’m Sagar 🚀</h1>
 
-**Information Science & Engineering Student | Aspiring Full‑Stack Developer**
+<p align="center">
+  <b>Information Science & Engineering Student | Aspiring Full‑Stack Developer</b>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagarssavadatti2004">
+    <img src="https://img.shields.io/badge/PORTFOLIO-LINKEDIN-444?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/sagr12004">
+    <img src="https://img.shields.io/badge/VISIT-GITHUB-blue?style=for-the-badge"/>
+  </a>
+</p>
+
+---
 
 I am an Information Science and Engineering student with a strong interest in **full‑stack development**, focused on building practical, scalable, and user‑oriented applications. I bring good communication skills, a problem‑solving mindset, and a continuous learning attitude—qualities essential for industry‑ready development roles.
 
 ---
 
-##  About Me
+## 🚀 About Me
 
 * 🎓 Information Science & Engineering undergraduate
 * 💻 Interested in frontend and backend development
@@ -16,7 +29,7 @@ I am an Information Science and Engineering student with a strong interest in **
 
 ---
 
-##  Languages & Tools
+## 🛠️ Languages & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github" />
@@ -24,7 +37,7 @@ I am an Information Science and Engineering student with a strong interest in **
 
 ---
 
-##  Core Competencies
+## 🔧 Core Competencies
 
 * Frontend Development (HTML, CSS, JavaScript)
 * Backend Development (Node.js)
@@ -34,9 +47,7 @@ I am an Information Science and Engineering student with a strong interest in **
 
 ---
 
-##  Project Highlights
-
-*(Representative academic & self‑learning projects)*
+## 📌 Project Highlights
 
 ### 🔹 Full‑Stack Web Application
 
@@ -67,7 +78,7 @@ I am an Information Science and Engineering student with a strong interest in **
 
 ---
 
-##  GitHub Overview
+## 📊 GitHub Overview
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=sagr12004&show_icons=true&hide_title=true" />
@@ -79,4 +90,4 @@ I am an Information Science and Engineering student with a strong interest in **
 
 To secure opportunities where I can apply my technical skills, grow as a full‑stack developer, and contribute to meaningful software solutions.
 
-*Always learning. Always building.*
+<i>Always learning. Always building.</i>
