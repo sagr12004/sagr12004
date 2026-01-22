@@ -1,81 +1,109 @@
-# Hi, I’m Sagar 👋
+<h1 align="center">Hi, I'm Sagar 👋</h1>
+<h3 align="center">Information Science & Engineering Student | Aspiring Full-Stack Developer</h3>
 
-**Information Science & Engineering Student | Aspiring Full-Stack Developer**
+<p align="center">
+  <a href="https://github.com/sagr12004">
+    <img src="https://komarev.com/ghpvc/?username=sagr12004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+  </a>
+  <a href="https://github.com/sagr12004?tab=followers">
+    <img src="https://img.shields.io/github/followers/sagr12004?label=Followers&style=for-the-badge" alt="followers" />
+  </a>
+  <a href="https://github.com/sagr12004?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge" alt="projects" />
+  </a>
+</p>
 
-I am an Information Science and Engineering student with a strong interest in **full-stack development**, focused on building practical, scalable, and user-oriented applications. I bring good communication skills, a problem-solving mindset, and a continuous learning attitude—qualities essential for industry-ready development roles.
+---
 
-## 📫 Connect With Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&pause=600&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+in+Progress;DSA+%7C+Web+Development+%7C+Projects;Always+Learning+%F0%9F%9A%80+Always+Building+%F0%9F%94%A5" />
+</p>
 
-<p><center>
+---
+
+## 🚀 About Me  
+- 🎓 Information Science & Engineering Undergraduate  
+- 💻 Interested in building **full-stack web applications**  
+- 🧠 Improving **DSA + problem-solving**  
+- 🌱 Currently learning **backend, API integration, and project structuring**  
+- 🤝 Strong communication skills and team mindset  
+- ✅ I focus on writing **clean code** and building real-world mini projects  
+
+---
+
+## 📫 Connect With Me  
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sagarssavadatti2004">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/your_instagram_username">
-    <img src="https://img.shields.io/badge/Instagram-Profile-critical?style=for-the-badge&logo=instagram" />
+  <a href="mailto:sagarssavadatti2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Mail%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</center>
+  <a href="https://github.com/sagr12004">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🛠️ Tech Stack  
 
-* 🎓 Information Science & Engineering undergraduate
-* 💻 Interested in frontend and backend development
-* 🌱 Currently improving backend systems and API design
-* 🤝 Strong communication and collaboration skills
-* 🧠 Focused on clean code, logic, and real-world solutions
-
----
-
-## 🛠️ Languages & Tools
-
+### ✅ Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
----
-
-## 🔧 Core Competencies
-
-* Frontend Development (HTML, CSS, JavaScript)
-* Backend Development (Node.js)
-* Python Programming
-* REST API Fundamentals
-* Communication & Team Collaboration
-
----
-
-## 📌 Project Highlights
-
-*(Representative academic & self-learning projects)*
-
-### 🔹 Full-Stack Web Application
-
-* Developed frontend interfaces and backend logic using **JavaScript & Node.js**
-* Implemented basic API handling and data flow
-* Focused on modular, readable code structure
-
-### 🔹 Backend / Python-Based Project
-
-* Built Python scripts for logic handling and data processing
-* Emphasized problem-solving and algorithmic thinking
-* Improved debugging and code optimization skills
-
-*(More projects will be added as I continue building and learning.)*
-
----
-
-## 📊 GitHub Overview
-
+### ✅ Tools & Platforms
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sagr12004&show_icons=true&hide_title=true" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs" />
 </p>
 
 ---
 
-### 💡 Career Objective
+## 🔧 What I’m Good At  
+✅ Frontend Development (HTML, CSS, JavaScript)  
+✅ Backend Basics (Node.js)  
+✅ Python Programming  
+✅ DSA (Queue, Stack, Arrays, Strings basics)  
+✅ Git & GitHub  
+✅ Team Communication + Collaboration  
 
-To secure opportunities where I can apply my technical skills, grow as a full-stack developer, and contribute to meaningful software solutions.
+---
 
-*Always learning. Always building.*
+## 📌 Featured Projects  
+
+### 🔹 Queue Visualizer (DSA Mini Project)
+A visual learning tool for **Queue (FIFO)** operations like Enqueue, Dequeue, Peek, Size, Clear, etc.
+
+✅ Concepts: Queue + UI logic  
+✅ Tech: HTML, CSS, JavaScript  
+
+🔗 **Repo:** https://github.com/sagr12004/DSA-VISUAL-LEARNING  
+🌐 **Live:** https://sagr12004.github.io/DSA-VISUAL-LEARNING/
+
+---
+
+### 🔹 Spell Checker Web App
+A simple spell checking project with a clean website UI.
+🌐 **Live:** https://sagarsspellchecker.netlify.app/
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sagr12004&show_icons=true&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagr12004&layout=compact&theme=transparent" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sagr12004&theme=transparent" height="170"/>
+</p>
+
+---
+
+## 💡 Career Objective  
+To secure opportunities where I can apply my development skills, grow as a full-stack developer, and contribute to building impactful software solutions.
+
+⭐ *Always learning. Always building.*
