@@ -38,8 +38,6 @@
   </a>
 </p>
 
-📌 Clicking the Email badge opens Gmail / Mail directly ✅
-
 ---
 
 ## 🛠️ Tech Stack  
@@ -65,27 +63,6 @@
 ✅ Communication + Team Collaboration  
 
 ---
-
-## 📌 Featured Projects  
-
-### 🔹 Queue Visualizer (DSA Mini Project)
-A visual learning tool for **Queue (FIFO)** operations like Enqueue, Dequeue, Peek, Size, Clear, etc.
-
-✅ Concepts: Queue + UI Logic  
-✅ Tech: HTML, CSS, JavaScript  
-
-🔗 **Repo:** https://github.com/sagr12004/DSA-VISUAL-LEARNING  
-🌐 **Live Demo:** https://sagr12004.github.io/DSA-VISUAL-LEARNING/
-
----
-
-### 🔹 Spell Checker Web App
-A simple spell checker web application with a clean UI.
-
-🌐 **Live Demo:** https://sagarsspellchecker.netlify.app/  
-
----
-
 ## 📊 GitHub Stats & Streak  
 
 <p align="center">
